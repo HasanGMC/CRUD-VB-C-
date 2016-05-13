@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("GMComputindo")]
 [assembly: AssemblyProduct("Session")]
-[assembly: AssemblyCopyright("Copyright © GMComputindo 2016")]
+[assembly: AssemblyCopyright("Copyright © GMComputindo 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
