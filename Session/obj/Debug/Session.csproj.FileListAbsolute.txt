@@ -1,0 +1,7 @@
+D:\Project_C#\Crud\Session\bin\Debug\Session.dll
+D:\Project_C#\Crud\Session\bin\Debug\Session.pdb
+D:\Project_C#\Crud\Session\bin\Debug\Domain.dll
+D:\Project_C#\Crud\Session\bin\Debug\Domain.pdb
+D:\Project_C#\Crud\Session\obj\Debug\Session.csprojResolveAssemblyReference.cache
+D:\Project_C#\Crud\Session\obj\Debug\Session.dll
+D:\Project_C#\Crud\Session\obj\Debug\Session.pdb

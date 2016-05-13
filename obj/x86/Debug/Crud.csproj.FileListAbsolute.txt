@@ -1,0 +1,14 @@
+D:\Project_C#\Crud\obj\x86\Debug\Crud.Form1.resources
+D:\Project_C#\Crud\obj\x86\Debug\Crud.Properties.Resources.resources
+D:\Project_C#\Crud\obj\x86\Debug\Crud.csproj.GenerateResource.Cache
+D:\Project_C#\Crud\bin\x86\Debug\Crud.exe.config
+D:\Project_C#\Crud\bin\x86\Debug\Crud.exe
+D:\Project_C#\Crud\bin\x86\Debug\Crud.pdb
+D:\Project_C#\Crud\bin\x86\Debug\Domain.dll
+D:\Project_C#\Crud\bin\x86\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Project_C#\Crud\bin\x86\Debug\Session.dll
+D:\Project_C#\Crud\bin\x86\Debug\Domain.pdb
+D:\Project_C#\Crud\bin\x86\Debug\Session.pdb
+D:\Project_C#\Crud\obj\x86\Debug\Crud.csprojResolveAssemblyReference.cache
+D:\Project_C#\Crud\obj\x86\Debug\Crud.exe
+D:\Project_C#\Crud\obj\x86\Debug\Crud.pdb

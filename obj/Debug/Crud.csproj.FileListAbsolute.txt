@@ -1,0 +1,9 @@
+D:\Project_C#\Crud\bin\Debug\Crud.exe.config
+D:\Project_C#\Crud\bin\Debug\Crud.exe
+D:\Project_C#\Crud\bin\Debug\Crud.pdb
+D:\Project_C#\Crud\obj\Debug\Crud.csprojResolveAssemblyReference.cache
+D:\Project_C#\Crud\obj\Debug\Crud.Form1.resources
+D:\Project_C#\Crud\obj\Debug\Crud.Properties.Resources.resources
+D:\Project_C#\Crud\obj\Debug\Crud.csproj.GenerateResource.Cache
+D:\Project_C#\Crud\obj\Debug\Crud.exe
+D:\Project_C#\Crud\obj\Debug\Crud.pdb
