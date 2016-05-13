@@ -1,7 +1,7 @@
 ﻿// Generation Multinet Computindo
 // Copyright (c) 2014 GMComputindo - HasanGMC.
 
-// managing SQL Data (CRUD).
+// managing Access Data (CRUD).
 
 // For more information on partnerships,
 // please visit http://www.gmcomputindo.com/
